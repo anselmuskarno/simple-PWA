@@ -1,0 +1,17 @@
+Ciri khas: Terdapat tombol install pada addressBar
+
+Mengecek Service Worker
+1. Klik kanan pada halaman web
+2. Klik Inspeksi
+3. Cari tulisan Application (Satu baris dengan menu console)
+4. Klik menu Service Workers
+5. Jika ada tulisan status Active (Warna Hijau), maka 
+web tersebut sudah menggunakan PWA
+
+Menggunakan Lighthouse
+1. Klik kanan pada halaman web
+2. Klik Inspeksi
+3. Cari tulisan Lighthouse (Satu baris dengan menu console)
+4. Pilih sesuai kebutuhan, terus klik tombol Analize page load
+5. Jika pada tulisan PWA sudah tercentang, maka web tersebut sudah
+menerapkan PWA
